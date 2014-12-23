@@ -1,0 +1,1 @@
+libavcodec/arm/dcadsp_init_arm.o: libavcodec/arm/dcadsp_init_arm.c

@@ -1,0 +1,7 @@
+/libavutil/ffversion.h
+/config.fate
+/config.h
+*.log
+*.a
+*.o
+*.so
